@@ -1,0 +1,36 @@
+cd unix_tests/
+touch skills2.txt
+touch skills2.txt
+Internet
+Unix
+Bash
+	ctrl+D
+cat >> skills2.txt
+linha 1
+linha 2
+linha 3
+linha 4
+linha 5
+	ctrl + D
+wc -l skills2.txt
+sort < skills2.txt | head -3 > top_skills.txt
+ou
+cat skills2.txt | sort > top_skills.txt
+touch phrases2.txt
+cat > phrases2.txt
+ninguém é você
+e este é o seu poder
+não sei
+borboletas são azuis
+sente a realidade
+Brasil
+Zambia
+
+	ctrl + D
+grep -i br phrases2.txt | wc -l 
+grep -iv br phrases2.txt | wc -l
+cat >> phrases2.txt
+	2 PAÍSES
+	ctrl + D
+cat phrases2.txt countries.txt > bunch_of_things.txt
+sort < bunch_of_things.txt >> bunch_of_things.txt
