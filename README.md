@@ -1,6 +1,9 @@
 # ![68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3463323938345f65386261373536373239343634343762396330373138663938643830363439367e6d76322e706e672f76312f6669742f775f353232253243685f313332253243616c5f632f66696c652e706e67](https://user-images.githubusercontent.com/94654321/160305359-f0e5de32-3ede-485d-877c-1031265c1ed1.png) #
 
-APENAS TESTE
+APENAS TESTE, adicionando mais palavras
+
+ e mais uma linha
+
 Este reposiório contém todas as atividades de aprendizagem desenvolvidas por _[Ravan Bezerra](https://www.linkedin.com/in/ravan-bezerra/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
