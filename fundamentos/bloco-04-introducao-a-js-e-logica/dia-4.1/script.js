@@ -17,3 +17,13 @@ if (a > b){
   console.log(b)
 }
 
+if (a > b){
+  if (a > c)
+    console.log(a)
+  else 
+    console.log(c)
+} else if (c > b){
+  if (c > a)
+    console.log(c)
+} else 
+  console.log(b)
