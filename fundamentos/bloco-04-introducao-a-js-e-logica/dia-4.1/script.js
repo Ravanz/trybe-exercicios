@@ -1,7 +1,12 @@
-const myName = "Ravan";
-const birthCity = "Sobradinho";
-var birthYear = 1995;
+const a = 13
+const b = 8
 
-console.log(myName)
-console.log(birthCity)
-console.log(birthYear)
+const Adição = a + b
+const Subtração = a - b
+const Multiplicação = a * b
+const Divisão = a / b
+const Módulo = a % b
+
+console.log(Adição, Subtração, Multiplicação, Divisão, Módulo)
+
+
