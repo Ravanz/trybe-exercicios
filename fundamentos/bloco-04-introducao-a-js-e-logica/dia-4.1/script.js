@@ -3,7 +3,7 @@ const a = 5
 const b = 6
 const c = 3
 const d = 0
-const e = -2
+const e = 0
 
 const Adição = a + b
 const Subtração = a - b
@@ -48,7 +48,6 @@ if (e < 0){
   console.log (e + " é negativo")
 } else if (e > 0){
   console.log (e + " é positivo")
-} else if (e = 0){
+} else {
   console.log (e + " é zero")
 }
-
