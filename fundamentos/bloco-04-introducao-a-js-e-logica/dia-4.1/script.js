@@ -51,3 +51,6 @@ if (e < 0){
 } else {
   console.log (e + " é zero")
 }
+
+
+
