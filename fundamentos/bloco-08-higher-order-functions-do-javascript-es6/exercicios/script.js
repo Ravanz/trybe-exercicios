@@ -1,7 +1,8 @@
-const numbers = [19, 21, 30, 3, 45, 22, 15];
+const arrayMyStudents = ['Maria', 'Manuela', 'Jorge', 'Ricardo', 'Wilson'];
 
-const findDivisibleBy3And5 = () => {
-  return numbers.find((number) => number % 3 === 0 && number % 5 === 0);
-}
+const removeStudentByName = (name, listStudents) =>
+  listStudents.filter((student) => student !== name)
+  // Filtra todos os estudantes que não têm o nome 'Ricardo' e retorna um array com eles. Na prática, remove o Ricardo do array.
 
-console.log(findDivisibleBy3And5())
+const newListStudents = removeStudentByName('Ricardo', arrayMyStudents);
+console.log(newListStudents); // [ 'Maria', 'Manuela', 'Jorge', 'Wilson' ]
